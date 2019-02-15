@@ -1,0 +1,10 @@
+.env
+*.idea
+/vendor
+composer.lock
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/*
+/storage
+.idea/modules.xml
+node_modules
